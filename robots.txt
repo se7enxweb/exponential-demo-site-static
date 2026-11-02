@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://se7enxweb.github.io/exponential-demo-site-static/sitemap.xml
+Sitemap: https://static.demo.exponential.earth/sitemap.xml
