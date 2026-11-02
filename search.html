@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><meta charset="utf-8"><title>Search</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex">
+<link rel="stylesheet" href="static-search/search.css"></head>
+<body class="exp-static-search"><main>
+<h1>Search</h1>
+<form role="search" method="get" action="search.html"><label for="exp-static-q">Search this site</label>
+<input type="search" id="exp-static-q" name="SearchText" autocomplete="off"> <button type="submit">Search</button></form>
+<p id="exp-static-count" role="status" aria-live="polite"></p><ol id="exp-static-results"></ol>
+<noscript><p>The search needs JavaScript.</p></noscript>
+<p><a href="./">Front page</a></p></main>
+<script id="exp-static-search-config" type="application/json">{"indexes":{"en-us":"static-search/index-en-us.json"},"nothing":"Nothing found.","results":"%count results"}</script>
+<script src="static-search/search.js" defer></script>
+</body></html>
