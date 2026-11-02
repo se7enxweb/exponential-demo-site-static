@@ -5,8 +5,8 @@ The content is edited in Exponential; every file here is written by a build, so 
 replaced by the next publish.
 
 - Website: https://se7enxweb.github.io/exponential-demo-site-static/
-- Pages: 560, files: 3555
-- Built: 2026-11-02T10:20:58+00:00
+- Pages: 517, files: 3528
+- Built: 2026-11-02T11:18:23+00:00
 - The build manifest: .static-publish/manifest.json
 
 Made with Exponential: https://github.com/se7enxweb/exponential

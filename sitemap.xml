@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/</loc><lastmod>2026-10-07</lastmod></url>
+  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/Privacy-Policy/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/Running/</loc><lastmod>2018-08-23</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/authors/</loc><lastmod>2018-08-08</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/authors/jane-smith/</loc><lastmod>2018-08-09</lastmod></url>
@@ -23,7 +24,6 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/content/view/sitemap/26210/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/content/view/sitemap/40269/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/content/view/sitemap/40269/(offset)/0/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/content/view/sitemap/40269/(offset)/108/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/content/view/sitemap/40269/(offset)/12/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/content/view/sitemap/40269/(offset)/24/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/content/view/sitemap/40269/(offset)/36/</loc><lastmod>2026-10-17</lastmod></url>
@@ -193,13 +193,9 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/140/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/150/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/160/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/170/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/180/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/20/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/30/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/40/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/4170/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/4180/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/4190/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/4200/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/(offset)/4210/</loc><lastmod>2026-10-17</lastmod></url>
@@ -226,7 +222,6 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/a-businessman-is-a-hybrid-of-a-dancer-and-a-calculator.-paul-valery/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/a-complex-system-that-works-is-invariably-found-to-have-evolved-from-a-simple-system-that-works/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/a-conclusion-is-simply-the-place-where-someone-got-tired-of-thinking/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/a-continuing-flow-of-paper-is-sufficient-to-continue-the-flow-of-paper.-dyer/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/a-language-that-doesn-t-have-everything-is-actually-easier-to-program-in-than-some-that-do.-dennis-m.-ritchie/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/a-man-is-known-by-the-company-he-organizes.-ambrose-bierce/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/a-memorandum-is-written-not-to-inform-the-reader-but-to-protect-the-writer.-dean-acheson/</loc><lastmod>2026-10-17</lastmod></url>
@@ -241,13 +236,10 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/are-we-running-light-with-overbyte/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/as-far-as-the-laws-of-mathematics-refer-to-reality-they-are-not-certain-and-as-far-as-they-are-certain-they-do-not-refer-to-reality.-albert-einstein/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/as-far-as-we-know-our-computer-has-never-had-an-undetected-error.-weisert/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/as-in-certain-cults-it-is-possible-to-kill-a-process-if-you-know-its-true-name.-ken-thompson-and-dennis-m.-ritchie/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/as-of-next-week-passwords-will-be-entered-in-morse-code/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/asynchronous-inputs-are-at-the-root-of-our-race-problems.-d.-winker-and-f.-prosser/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/backed-up-the-system-lately/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/basic-is-a-high-level-languish.-apl-is-a-high-level-anguish/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/basic-n.-a-programming-language.-related-to-certain-social-diseases-in-that-those-who-have-it-will-not-admit-it-in-polite-company/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/be-extravagant/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/been-through-hell-whaddya-bring-back-for-me-a.-brilliant/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/bell-labs-unix-reach-out-and-grep-someone/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/beware-of-programmers-carrying-screwdrivers.-chip-salzenberg/</loc><lastmod>2026-10-17</lastmod></url>
@@ -272,10 +264,8 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/don-t-drop-acid-take-it-pass-fail!-bryan-michael-wendt/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/don-t-get-suckered-in-by-the-comments-they-can-be-terribly-misleading.-debug-only-code.-dave-storer/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/don-t-hate-me-because-i-m-beautiful.-hate-me-because-i-m-beautiful-smart-and-rich.-calvin-keegan/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/don-t-sweat-it-it-s-only-ones-and-zeros.-p.-skelly/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/don-t-tell-me-how-hard-you-work.-tell-me-how-much-you-get-done.-james-j.-ling/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/don-t-tell-me-i-m-burning-the-candle-at-both-ends-tell-me-where-to-get-more-wax/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/don-t-think-let-the-machine-do-it-for-you!-e.-c.-berkeley/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/duct-tape-is-like-the-force.-it-has-a-light-side-and-a-dark-side-and-it-holds-the-universe-together-carl-zwanzig/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/dump-the-condiments.-if-we-are-to-be-eaten-we-don-t-need-to-taste-good.-visionaries-cartoon/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/each-honest-calling-each-walk-of-life-has-its-own-elite-its-own-aristocracy-based-on-excellence-of-performance.-james-bryant-conant/</loc><lastmod>2026-10-17</lastmod></url>
@@ -294,7 +284,6 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/good-salesmen-and-good-repairmen-will-never-go-hungry.-r.e.-schenk/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/gotcha-you-snot-necked-weenies!-post-bros.-comics/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/heisenberg-may-have-been-here/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/hell-is-empty-and-all-the-devils-are-here.-wm.-shakespeare-the-tempest/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/help-stamp-out-mickey-mouse-computer-interfaces-menus-are-for-restaurants/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/honesty-pays-but-it-doesn-t-seem-to-pay-enough-to-suit-some-people.-f.m.-hubbard/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/how-can-you-do-new-math-problems-with-an-old-math-mind-charles-schulz/</loc><lastmod>2026-10-17</lastmod></url>
@@ -305,21 +294,15 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-don-t-want-to-achieve-immortality-through-my-work.-i-want-to-achieve-immortality-through-not-dying.-woody-allen/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-have-a-very-small-mind-and-must-live-with-it.-e.-dijkstra/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-have-not-the-slightest-confidence-in-spiritual-manifestations.-robert-g.-ingersoll/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-have-not-yet-begun-to-byte/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-have-yet-to-see-any-problem-however-complicated-which-when-you-looked-at-it-in-the-right-way-did-not-become-still-more-complicated.-poul-anderson/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-just-had-my-entire-intestinal-tract-coated-with-teflon/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-just-need-enough-to-tide-me-over-until-i-need-more.-bill-hoest/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-like-work-it-fascinates-me-i-can-sit-and-look-at-it-for-hours/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-m-not-afraid-of-dying-i-just-don-t-want-to-be-there-when-it-happens.-woody-allen/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-must-have-slipped-a-disk-my-pack-hurts/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-prefer-rogues-to-imbeciles-because-they-sometimes-take-a-rest.-alexandre-dumas-fils/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-respect-faith-but-doubt-is-what-gives-you-an-education.-wilson-mizner/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-think-man-invented-the-car-by-instinct.-jack-handley-the-new-mexican-1988/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-think-there-s-a-world-market-for-about-five-computers.-attr.-thomas-j.-watson-chairman-of-the-board-ibm-1943/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-ve-finally-learned-what-upward-compatible-means.-it-means-we-get-to-keep-all-our-old-mistakes.-dennie-van-tassel2/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-ve-seen-the-forgeries-i-ve-sent-out.-john-f.-haugh-ii-jfh-rpp386.dallas.tx.us-about-forging-net-news-articles/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/i-will-make-no-bargains-with-terrorist-hardware.-peter-da-silva/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/if-_fp_w_type_size-64-error-only-stud-muffins-allowed-schmuck.-endif-linux-arch-sparc64-quad.c/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/if-a-6600-used-paper-tape-instead-of-core-memory-it-would-use-up-tape-at-about-30-miles-second.-grishman-assembly-language-programming/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/if-a-listener-nods-his-head-when-you-re-explaining-your-program-wake-him-up/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/if-a-train-station-is-a-place-where-a-train-stops-what-s-a-workstation/</loc><lastmod>2026-10-17</lastmod></url>
@@ -338,20 +321,17 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/ignorance-is-bliss.-thomas-gray-fortune-updates-the-great-quotes-42-bliss-is-ignorance/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/in-any-problem-if-you-find-yourself-doing-an-infinite-amount-of-work-the-answer-may-be-obtained-by-inspection/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/in-case-of-atomic-attack-all-work-rules-will-be-temporarily-suspended/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/in-my-opinion-anyone-interested-in-improving-himself-should-not-rule-out-becoming-pure-energy.-jack-handley-the-new-mexican-1988/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/in-nature-there-are-neither-rewards-nor-punishments-there-are-consequences.-r.g.-ingersoll/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/in-the-face-of-entropy-and-nothingness-you-kind-of-have-to-pretend-it-s-not-there-if-you-want-to-keep-writing-good-code.-karl-lehenbauer/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/in-the-sciences-we-are-now-uniquely-priviledged-to-sit-side-by-side-with-the-giants-on-whose-shoulders-we-stand.-gerald-holton/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/in-these-matters-the-only-certainty-is-that-there-is-nothing-certain.-pliny-the-elder/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/indecision-is-the-basis-of-flexibility-button-at-a-science-fiction-convention/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/intelligence-without-character-is-a-dangerous-thing.-g.-steinem/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/irrationality-is-the-square-root-of-all-evil-douglas-hofstadter/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/is-it-really-you-fuzz-or-is-it-memorex-or-is-it-radiation-sickness-sonic-disruptors-comics/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/is-not-an-identifier/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/it-is-best-to-confuse-only-one-issue-at-a-time.-k-r/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/it-is-contrary-to-reasoning-to-say-that-there-is-a-vacuum-or-space-in-which-there-is-absolutely-nothing.-descartes/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/it-is-not-for-me-to-attempt-to-fathom-the-inscrutable-workings-of-providence.-the-earl-of-birkenhead/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/it-is-very-difficult-to-prophesy-especially-when-it-pertains-to-the-future/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/it-may-be-that-our-role-on-this-planet-is-not-to-worship-god-but-to-create-him.-arthur-c.-clarke/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/it-s-a-poor-workman-who-blames-his-tools/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/it-s-when-they-say-2-2-5-that-i-begin-to-argue.-eric-pepke/</loc><lastmod>2026-10-17</lastmod></url>
@@ -371,29 +351,21 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/machines-take-me-by-surprise-with-great-frequency.-alan-turing/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/make-headway-at-work.-continue-to-let-things-deteriorate-at-home/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/many-people-are-unenthusiastic-about-their-work/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/math-and-alcohol-don-t-mix!-please-don-t-drink-and-derive.-mathematicians-against-drunk-deriving/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/matter-cannot-be-created-or-destroyed-nor-can-it-be-returned-without-a-receipt/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/may-the-bluebird-of-happiness-twiddle-your-bits/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/men-love-to-wonder-and-that-is-the-seed-of-science/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/men-occasionally-stumble-over-the-truth-but-most-of-them-pick-themselves-up-and-hurry-off-as-if-nothing-had-happened.-winston-churchill/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/mencken-and-nathan-s-fifteenth-law-of-the-average-american-the-worst-actress-in-the-company-is-always-the-manager-s-wife/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/message-acknowledged-the-pershing-ii-missiles-have-been-launched/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/millions-long-for-immortality-who-do-not-know-what-to-do-with-themselves-on-a-rainy-sunday-afternoon.-susan-ertz/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/mirrors-should-reflect-a-little-before-throwing-back-images.-jean-cocteau/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/mommy-what-happens-to-your-files-when-you-die/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/money-will-say-more-in-one-moment-than-the-most-eloquent-lover-can-in-years/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/most-people-can-t-understand-how-others-can-blow-their-noses-differently-than-they-do.-turgenev/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/most-people-will-listen-to-your-unreasonable-demands-if-you-ll-consider-their-unacceptable-offer/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/multics-is-security-spelled-sideways/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/nature-always-sides-with-the-hidden-flaw/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/neighbors!!-we-got-neighbors!-we-ain-t-supposed-to-have-any-neighbors-and-i-just-had-to-shoot-one.-post-bros.-comics/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/never-tell-people-how-to-do-things.-tell-them-what-to-do-and-they-will-surprise-you-with-their-ingenuity.-gen.-george-s.-patton-jr/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/new-systems-generate-new-problems/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/next-to-being-shot-at-and-missed-nothing-is-really-quite-as-satisfying-as-an-income-tax-refund.-f.-j.-raymond/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/no-hardware-designer-should-be-allowed-to-produce-any-piece-of-hardware-until-three-software-guys-have-signed-off-for-it.-andy-tanenbaum/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/no-matter-how-cynical-you-get-it-s-impossible-to-keep-up/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/nothing-is-easier-than-to-denounce-the-evildoer-nothing-is-more-difficult-than-to-understand-him.-fyodor-dostoevski/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/nothing-is-faster-than-the-speed-of-light-to-prove-this-to-yourself-try-opening-the-refrigerator-door-before-the-light-comes-on/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/old-mail-has-arrived/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/on-a-paper-submitted-by-a-physicist-colleague-this-isn-t-right.-this-isn-t-even-wrong.-wolfgang-pauli/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/once-it-hits-the-fan-the-only-rational-choice-is-to-sweep-it-up-package-it-and-sell-it-as-fertilizer/</loc><lastmod>2026-10-17</lastmod></url>
@@ -404,31 +376,24 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/overload-core-meltdown-sequence-initiated/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/panic-kernel-segmentation-violation.-core-dumped-only-kidding/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/paul-lynde-to-block-a-contestant-on-hollywood-squares/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/pause-for-storage-relocation/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/people-who-go-to-conferences-are-the-ones-who-shouldn-t/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/per-buck-you-get-more-computing-action-with-the-small-computer.-r.w.-hamming/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/philogyny-recapitulates-erogeny-erogeny-recapitulates-philogyny/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/pl-i-the-fatal-disease-belongs-more-to-the-problem-set-than-to-the-solution-set.-edsger-w.-dijkstra-sigplan-notices-volume-17-number-5/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/poor-man-he-was-like-an-employee-to-me.-the-police-commisioner-on-sledge-hammer-laments-the-death-of-his-bodyguard/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/pound-for-pound-the-amoeba-is-the-most-vicious-animal-on-earth/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/promising-costs-nothing-it-s-the-delivering-that-kills-you/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/protozoa-are-small-and-bacteria-are-small-but-viruses-are-smaller-than-the-both-put-together/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/pull-the-trigger-and-you-re-garbage.-lady-blue/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/pull-the-wool-over-your-own-eyes!-j.r.-bob-dobbs/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/q-how-many-ibm-cpu-s-does-it-take-to-execute-a-job-a-four-three-to-hold-it-down-and-one-to-rip-its-head-off/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/real-programmers-don-t-write-in-fortran.-fortran-is-for-pipe-stress-freaks-and-crystallography-weenies.-fortran-is-for-wimp-engineers-who-wear-white-socks/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/real-programmers-don-t-write-in-pl-i.-pl-i-is-for-programmers-who-can-t-decide-whether-to-write-in-cobol-or-fortran/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/reality-must-take-precedence-over-public-relations-for-mother-nature-cannot-be-fooled.-r.p.-feynman/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/recent-investments-will-yield-a-slight-profit/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/recent-research-has-tended-to-show-that-the-abominable-no-man-is-being-replaced-by-the-prohibitive-procrastinator.-c.n.-parkinson/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/religion-is-something-left-over-from-the-infancy-of-our-intelligence-it-will-fade-away-as-we-adopt-reason-and-science-as-our-guidelines.-bertrand-russell/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/remember-though-that-there-is-no-general-rule-for-converting-a-list-into-a-scalar.-larry-wall-in-the-perl-man-page/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/remember-use-logout-to-logout/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/row-row-row-your-bits-gently-down-the-stream/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/sentient-plasmoids-are-a-gas/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/serfs-up!-spartacus/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/show-me-a-man-who-is-a-good-loser-and-i-ll-show-you-a-man-who-is-playing-golf-with-his-boss/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/sigmund-freud-is-alleged-to-have-said-that-in-the-last-analysis-the-entire-field-of-psychology-may-reduce-to-biological-electrochemistry/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/simulations-are-like-miniskirts-they-show-a-lot-and-hide-the-essentials.-hubert-kirrman/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/some-people-carve-careers-others-chisel-them/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/some-people-manage-by-the-book-even-though-they-don-t-know-who-wrote-the-book-or-even-what-book/</loc><lastmod>2026-10-17</lastmod></url>
@@ -462,7 +427,6 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/the-more-cordial-the-buyer-s-secretary-the-greater-the-odds-that-the-competition-already-has-the-order/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/the-next-person-to-mention-spaghetti-stacks-to-me-is-going-to-have-his-head-knocked-off.-bill-conrad/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/the-nice-thing-about-standards-is-that-there-are-so-many-of-them-to-choose-from.-andrew-s.-tanenbaum/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/the-number-of-computer-scientists-in-a-room-is-inversely-proportional-to-the-number-of-bugs-in-their-code/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/the-one-day-you-d-sell-your-soul-for-something-souls-are-a-glut/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/the-only-difference-between-a-car-salesman-and-a-computer-salesman-is-that-the-car-salesman-knows-he-s-lying/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/the-only-person-who-always-got-his-work-done-by-friday-was-robinson-crusoe/</loc><lastmod>2026-10-17</lastmod></url>
@@ -483,13 +447,11 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/think-of-it!-with-vlsi-we-can-pack-100-eniacs-in-1-sq.-cm/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/this-file-will-self-destruct-in-five-minutes/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/this-is-a-good-time-to-punt-work/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/this-place-just-isn-t-big-enough-for-all-of-us.-we-ve-got-to-find-a-way-off-this-planet/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/those-who-do-not-understand-unix-are-condemned-to-reinvent-it-poorly.-henry-spencer-university-of-toronto-unix-hack/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/thus-spake-the-master-programmer-when-a-program-is-being-tested-it-is-too-late-to-make-design-changes.-geoffrey-james-the-tao-of-programming/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/time-is-money-and-money-can-t-buy-you-love-and-i-love-your-outfit-t.h.u.n.d.e.r.-1/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/time-to-take-stock.-go-home-with-some-office-supplies/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/to-program-is-to-be/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/to-understand-a-program-you-must-become-both-the-machine-and-the-program/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/top-ten-things-overheard-at-the-ansi-c-draft-committee-meetings-10-sorry-but-that-s-too-useful/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/top-ten-things-overheard-at-the-ansi-c-draft-committee-meetings-6-them-bats-is-smart-they-use-radar/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/top-ten-things-overheard-at-the-ansi-c-draft-committee-meetings-7-well-it-s-an-excellent-idea-but-it-would-make-the-compilers-too-hard-to-write/</loc><lastmod>2026-10-17</lastmod></url>
@@ -502,8 +464,6 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/unix-will-self-destruct-in-five-seconds-4-3-2-1/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/utility-is-when-you-have-one-telephone-luxury-is-when-you-have-two-opulence-is-when-you-have-three-and-paradise-is-when-you-have-none.-doug-larson/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/vms-is-like-a-nightmare-about-rxs-11m/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/we-all-know-linux-is-great-it-does-infinite-loops-in-5-seconds.-linus-torvalds-about-the-superiority-of-linux-on-the-amterdam-linux-symposium/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/we-can-defeat-gravity.-the-problem-is-the-paperwork-involved/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/we-cannot-command-nature-except-by-obeying-her.-sir-francis-bacon/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/we-don-t-really-understand-it-so-we-ll-give-it-to-the-programmers/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/we-were-so-poor-we-couldn-t-afford-a-watchdog.-if-we-heard-a-noise-at-night-we-d-bark-ourselves.-crazy-jimmy/</loc><lastmod>2026-10-17</lastmod></url>
@@ -520,7 +480,6 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/where-it-is-a-duty-to-worship-the-sun-it-is-pretty-sure-to-be-a-crime-to-examine-the-laws-of-heat.-christopher-morley/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/wherever-you-go-there-you-are.-buckaroo-banzai/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/whom-the-gods-would-destroy-they-first-teach-basic/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/why-do-we-want-intelligent-terminals-when-there-are-so-many-stupid-users/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-are-in-a-maze-of-uucp-connections-all-alike/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-can-t-cheat-the-phone-company/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-can-t-get-very-far-in-this-world-without-your-dossier-being-there-first.-arthur-miller/</loc><lastmod>2026-10-17</lastmod></url>
@@ -530,14 +489,12 @@
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-can-tune-a-piano-but-you-can-t-tuna-fish.-you-can-tune-a-filesystem-but-you-can-t-tuna-fish.-from-the-tunefs-8-man-page/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-do-not-have-mail/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-don-t-have-to-know-how-the-computer-works-just-how-to-work-the-computer/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-know-you-ve-landed-gear-up-when-it-takes-full-power-to-taxi/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-should-never-wear-your-best-trousers-when-you-go-out-to-fight-for-freedom-and-liberty.-henrik-ibsen/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-tweachewous-miscweant!-elmer-fudd/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-will-be-successful-in-your-work/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/you-will-never-amount-to-much.-munich-schoolmaster-to-albert-einstein-age-10/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/your-attitude-determines-your-attitude.-zig-ziglar-self-improvement-doofus/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/your-password-is-pitifully-obvious/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/slash-quotes/your-program-is-sick!-shoot-it-and-put-it-out-of-its-memory/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/tour/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/video/</loc><lastmod>2018-08-01</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/video/10-minute-jump-rope-workout/</loc><lastmod>2018-08-22</lastmod></url>
   <url><loc>https://se7enxweb.github.io/exponential-demo-site-static/video/8-healthy-avocado-recipes-that-can-be-made-in-just-10-minutes/</loc><lastmod>2018-08-23</lastmod></url>
